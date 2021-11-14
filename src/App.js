@@ -13,7 +13,7 @@ const  App = () => {
   const handleClick = async () => {
     const year = date.getFullYear()
     const month = date.getMonth() > 8  ? date.getMonth() + 1  : `0${date.getMonth() + 1}`
-    const day = date.getDate() > 8  ? date.getDate() + 1  : `0${date.getDate() + 1}`
+    const day = date.getDate() > 9  ? date.getDate()   : `0${date.getDate() }`
     const currentDate = new Date()
     const currentYear = currentDate.getFullYear()
 
