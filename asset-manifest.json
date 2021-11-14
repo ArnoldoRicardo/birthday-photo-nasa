@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/birthday-photo-nasa/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/birthday-photo-nasa/static/js/main.742d0f81.chunk.js",
+    "main.js.map": "/birthday-photo-nasa/static/js/main.742d0f81.chunk.js.map",
+    "runtime-main.js": "/birthday-photo-nasa/static/js/runtime-main.4770f747.js",
+    "runtime-main.js.map": "/birthday-photo-nasa/static/js/runtime-main.4770f747.js.map",
+    "static/css/2.f10f449b.chunk.css": "/birthday-photo-nasa/static/css/2.f10f449b.chunk.css",
+    "static/js/2.aac14f2c.chunk.js": "/birthday-photo-nasa/static/js/2.aac14f2c.chunk.js",
+    "static/js/2.aac14f2c.chunk.js.map": "/birthday-photo-nasa/static/js/2.aac14f2c.chunk.js.map",
+    "static/js/3.7999a182.chunk.js": "/birthday-photo-nasa/static/js/3.7999a182.chunk.js",
+    "static/js/3.7999a182.chunk.js.map": "/birthday-photo-nasa/static/js/3.7999a182.chunk.js.map",
+    "index.html": "/birthday-photo-nasa/index.html",
+    "static/css/2.f10f449b.chunk.css.map": "/birthday-photo-nasa/static/css/2.f10f449b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/birthday-photo-nasa/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aac14f2c.chunk.js.LICENSE.txt": "/birthday-photo-nasa/static/js/2.aac14f2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4770f747.js",
+    "static/css/2.f10f449b.chunk.css",
+    "static/js/2.aac14f2c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.742d0f81.chunk.js"
+  ]
+}
